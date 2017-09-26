@@ -1,0 +1,4 @@
+#Constants K for the controller algorithm
+k_1 : 0.0
+k_2 : 0.0
+k_3 : 3.0
