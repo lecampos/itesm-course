@@ -1,4 +1,0 @@
-#Constants K for the controller algorithm
-P : 1.0
-I : 1.0
-D : 3.0
