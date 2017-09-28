@@ -1,0 +1,25 @@
+<package>
+  <name>wrobot_comm</name>
+  <version>0.0.1</version>
+  <description>The wrobot_comm package</description>
+
+  <maintainer email="lecampos@gdl.cinvestav.mx">Leo Campos</maintainer>
+ 
+  <author>Leo Campos</author>
+  
+
+  <license>ASL 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Dependencies needed to compile this package. -->
+  <build_depend>message_generation</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+
+  <!-- Dependencies needed after this package is compiled. -->
+  <run_depend>message_runtime</run_depend>
+</package>
+
+
+
+
