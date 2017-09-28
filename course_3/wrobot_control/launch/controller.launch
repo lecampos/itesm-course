@@ -1,0 +1,5 @@
+<launch>
+   	<node name="wrobot_simple_controller" pkg="wrobot_control" type="wrobot_simple_controller" output="screen">
+		<rosparam command="load" file="$(find wrobot_control)/config/param.yaml" />
+	</node>
+</launch>
